@@ -1,0 +1,16 @@
+.errorlist {
+  list-style: none;
+}
+.errorlist li {
+  color: red;
+}
+
+body {
+  background: linear-gradient(
+    120deg,
+    rgb(225, 255, 0),
+    rgb(21, 128, 228),
+    rgb(255, 145, 0)
+  );
+  min-height: 100vh;
+}
